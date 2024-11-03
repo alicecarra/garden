@@ -1,5 +1,5 @@
 ---
-title: todo()!
+title: Digital Garden
 ---
 
 placeholder and remainder to write about web gardens
