@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-GB",
-    baseUrl: "alicecarra.github.io/garden",
+    baseUrl: "garden.alicecarra.com/garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
