@@ -4,4 +4,4 @@ tags:
   - vinyl
 ---
 
-![[Genesis - Nursery Cryme cover.png\|800]]
+![[./../images/Genesis - Nursery Cryme cover.png\|800]]
