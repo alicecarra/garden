@@ -24,7 +24,7 @@ So, as we wrap up the year, my boyfriend and I took on the task of cataloging al
 - Enya - Watermark
 - Gala Super - Temas Clássicos em Concerto
 - Genesis - Foxtrot
-- Genesis - Nursery Crymr
+- [Genesis - Nursery Cryme](Genesis - Nursery Cryme.md)
 - Genesis - Selling England by the Pound
 - Genesis - The Lamb Lies Down on Broadway
 - George Michael - Faith
